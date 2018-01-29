@@ -1,7 +1,7 @@
 # Lab2
 Lab 2 for John Valeiras
 
-Activity 1: https://github.com/jdv3hn/hell-world
+Activity 1: https://github.com/jdv3hn/hello-world
 
 Activity 3:
   link to fork:https://github.com/jdv3hn/Lab2Fork-101
